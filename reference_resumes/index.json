@@ -1,0 +1,31 @@
+{
+  "roles": {
+    "software_engineer": {
+      "keywords": ["software engineer", "backend engineer", "python developer", "full stack developer", "backend developer", "api developer"],
+      "files": [
+        "software_engineer/senior_python_dev_ref1.json",
+        "software_engineer/backend_engineer_ref1.json"
+      ]
+    },
+    "data_scientist": {
+      "keywords": ["data scientist", "machine learning engineer", "ml engineer", "data analyst", "ai engineer"],
+      "files": [
+        "data_scientist/data_scientist_ref1.json"
+      ]
+    },
+    "product_manager": {
+      "keywords": ["product manager", "program manager", "technical program manager", "product owner"],
+      "files": [
+        "product_manager/product_manager_ref1.json"
+      ]
+    },
+    "devops_engineer": {
+      "keywords": ["devops engineer", "site reliability engineer", "sre", "platform engineer", "infrastructure engineer", "cloud engineer"],
+      "files": [
+        "devops_engineer/devops_engineer_ref1.json"
+      ]
+    }
+  },
+  "version": "1.0.0",
+  "description": "Role keyword to reference resume file mapping for fast lookup."
+}
